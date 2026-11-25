@@ -1,5 +1,4 @@
 # geoserver-nov2026-check
-# geoserver-nov2026-check
 
 Read-only self-detection scripts for the GeoServer flaws disclosed in November 2026. Two of them are exploited in the wild and can be chained into unauthenticated remote code execution:
 
