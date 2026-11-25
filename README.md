@@ -17,7 +17,6 @@
 | CVE-2026-120704 | JDBC security service loads attacker library (SQLite) | 7.2 | 🟠 Chain step |
 | CVE-2026-129242 | Deserialization in JDBC user and role services | 8.6 | 🟠 Chain step |
 
-📢 Published by **Topology Defense Cyber Threat Intelligence** with advisory `TD-SA-2026-1125-GEOSERVER`.
 
 > [!NOTE]
 > ✅ The scripts send no exploit payloads and change nothing. They confirm the version and exposure, and they look for traces the flaws leave. A lead is not proof of compromise.
